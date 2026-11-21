@@ -45,8 +45,11 @@
   <a href="mailto:bhowmicksamragnyee@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/_littlechillbaby_?knvt=MWlmOGdhdGRrcTI5dw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
-
+  
 ---
 
 ## 💻 Tech Stack & Tools

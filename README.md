@@ -97,12 +97,12 @@
 
 Here are some projects I'm working on and exploring:
 
-| Project | Description |
-|---|---|
-| 🌐 Web Development | Exploring and building responsive websites. |
-| 🤝 Sahyog | A cooperative-owned digital service marketplace connecting customers and skilled workers. |
-| 🪔 Diwali Digital Diya | An interactive Diwali greeting website with festive features. |
-| 💻 C Programming | Practising programming fundamentals and problem-solving. |
+| Project | Description | Website |
+|---|---|---|
+| 🌐 Web Development | Exploring and building responsive websites. | Coming Soon |
+| 🤝 Sahyog | A cooperative-owned digital service marketplace connecting customers and skilled workers. | [🚀 Visit Website](https://sahyogapp.vercel.app/) |
+| 🪔 Diwali Digital Diya | An interactive Diwali greeting website with festive features. | [✨ Visit Website](https://diwali-greeting-website-sandy.vercel.app/) |
+| 💻 C Programming | Practising programming fundamentals and problem-solving. | Learning |
 
 ---
 

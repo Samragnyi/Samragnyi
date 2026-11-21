@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Exploring+the+World+of+Technology;Turning+Ideas+Into+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samragnyi&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
-
 ---
 
 ## 🌟 About Me

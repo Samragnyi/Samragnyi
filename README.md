@@ -1,6 +1,4 @@
 
-<!-- 🌟 PROFILE HEADER -->
-
 <h1 align="center">Hi 👋, I'm Samragnyi</h1>
 
 <h3 align="center">
@@ -99,14 +97,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samragnyi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 🚀 My Projects
 
 Here are some projects I'm working on and exploring:
@@ -114,10 +104,9 @@ Here are some projects I'm working on and exploring:
 | Project | Description |
 |---|---|
 | 🌐 Web Development | Exploring and building responsive websites. |
-| 💡 Creative Projects | Turning innovative ideas into digital experiences. |
+| 🤝 Sahyog | A cooperative-owned digital service marketplace connecting customers and skilled workers. |
+| 🪔 Diwali Digital Diya | An interactive Diwali greeting website with festive features. |
 | 💻 C Programming | Practising programming fundamentals and problem-solving. |
-
-> More exciting projects coming soon!
 
 ---
 

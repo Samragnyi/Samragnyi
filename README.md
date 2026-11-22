@@ -1,9 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Samragnyi</h1>
-
-<h3 align="center">
-  💻 BCA Student | Aspiring Full-Stack Developer | Tech Enthusiast
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:5b21b6&height=180&section=header&text=SAMRAGNYI%20BHOWMICK&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=75&fontAlignY=45" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Exploring+the+World+of+Technology;Turning+Ideas+Into+Projects" />

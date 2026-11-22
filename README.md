@@ -124,3 +124,4 @@ Here are some projects I'm working on and exploring:
 <p align="center">
   ⭐ Thank you for visiting my profile! ⭐
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" /></div>
